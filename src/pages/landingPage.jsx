@@ -47,10 +47,7 @@ export default class landingPage extends Component {
             <div>
 
                 <body>
-                    {/* 
-  <!--==========================
-  Header
-  ============================--> */}
+
                     <header id="header" className="fixed-top">
                         <div className="container">
 
