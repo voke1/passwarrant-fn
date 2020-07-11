@@ -1,74 +1,68 @@
-# [Quick - Free Bootstrap Theme](https://preview.webpixels.io/quick-free-bootstrap-theme?utm_source=github&utm_medium=readme&utm_campaign=themes&utm_content=quick-free-bootstrap-theme)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Quick - Free Bootstrap Theme Cover](https://webpixels.s3.eu-central-1.amazonaws.com/public/github/quick-free-bootstrap-theme.jpg "Quick - Free Bootstrap Theme")
+## Available Scripts
 
-Quick is an innovative HTML template solution, based on Bootstrap 4, which combines beautiful design and flawless functionality.
+In the project directory, you can run:
 
-This is a free light version version that can be downloaded and used as needed (even in commercial projects).
+### `yarn start`
 
-[See Demo](https://preview.webpixels.io/quick-free-bootstrap-theme?utm_source=github&utm_medium=readme&utm_campaign=themes&utm_content=quick-free-bootstrap-theme)
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Download
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
-Two quick-start options are available:
+### `yarn test`
 
-- [Download the latest release](https://github.com/webpixels/quick-free-bootstrap-theme/archive/master.zip).
-- Clone the repo: `git clone https://github.com/webpixels/quick-free-bootstrap-theme.git`.
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Interested in the PRO version?
+### `yarn build`
 
-- [Open Product Page](https://webpixels.io/themes/quick-website-ui-kit?utm_source=github&utm_medium=readme&utm_campaign=themes&utm_content=quick-free-bootstrap-theme)
-- [Live Preview](https://preview.webpixels.io/quick-website-ui-kit?utm_source=github&utm_medium=readme&utm_campaign=themes&utm_content=quick-free-bootstrap-theme)
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Install
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
 
-Automate painful or time-consuming tasks in your development workflow, so you can stop messing around and build something using Gulp
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-- npm install gulp-cli -g
-- npm install
-- gulp
+### `yarn eject`
 
-### Additional Gulp tasks
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-- gulp sync:libs (update the src/assets/libs folder in case new dependencies have been installed)
-- gulp copy:libs (copy all the dependencies compiled assets in the dist folder)
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## Documentation
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-No matter you are a developer or new to web design, you will find our theme very easy to customize with an intuitive HTML markup. In the theme's pack you will find a docs folder with all the information you need to get started.
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Typeface
+## Learn More
 
-Quick is made using the  typeface, which can be downloaded for free here: https://fonts.google.com/
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-## Links
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-More products from Webpixels: [https://webpixels.io](https://webpixels.io?utm_source=github&utm_medium=readme&utm_campaign=themes&utm_content=boomerang-free-bootstrap-ui-kit)
+### Code Splitting
 
-### Social Media:
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-- Github: <https://github.com/webpixels>
-- Dribbble: <http://dribbble.com/webpixels>
-- Instagram: <http://www.instagram.com/webpxs>
-- Twitter: <http://www.twitter.com/webpxs>
-- Facebook: <http://www.facebook.com/webpixels>
+### Analyzing the Bundle Size
 
-## Authors
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-**Alexis Enache**
+### Making a Progressive Web App
 
-+ <http://dribbble.com/extrabright>
-+ <http://instagram.com/extragright>
-+ <http://twitter.com/3xtrabright>
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-## Support
+### Advanced Configuration
 
-We create long lasting relationships with our customers and we want to offer you the best help in order to get started with any of our products.
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-For all our free resources we offer community support. Please visit our Github repository and post your issue, suggestion, or contribution.
+### Deployment
 
-[Get Support](https://github.com/webpixels/quick-free-bootstrap-theme/issues)
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-## 50k+ happy customers
+### `yarn build` fails to minify
 
-Over the past 6 years, we’ve sold over 100k themes and learned the best way to build, maintain, and support our themes. Our mission is to bring the best development experience to designers and developers by offering the tools needed for having a quick and solid start in most web projects.
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
